@@ -1,3 +1,5 @@
+# This script was written by Daniel Maloney and was edited by Cailin Harris
+
 # Question: Given a species of Echinodermata, does it form a community with a specific group of other Echinodermata species?
 
 # Echinodermata is a phylum which includes a diverse group of species such as: starfish, sea urchins, and sea cucumbers (ref1).
